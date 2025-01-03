@@ -1,0 +1,58 @@
+{
+  "jobs": [
+    {
+      "position": "Product Manager",
+      "company": "Udemig",
+      "location": "Redmond",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "id": "6b94a2d3-0571-412b-81e0-910d99a2f057",
+      "date": 1712607002328
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "ZeyMas",
+      "location": "Devoloper",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "date": 1735852521982,
+      "id": "0cw0Zu7"
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Google",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": 1735898647693,
+      "id": "qsg72Wh"
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "Devoloper",
+      "status": "Devam Ediyor",
+      "type": "Staj",
+      "date": 1735898744758,
+      "id": "KbVZTdC"
+    },
+    {
+      "position": "Marketing Manager  ",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Staj",
+      "date": 1735901359287,
+      "id": "dqZayW3"
+    },
+    {
+      "position": "yazılım ",
+      "company": "ZeyMas",
+      "location": "istanbul",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": 1735915268589,
+      "id": "3HSvNNJ"
+    }
+  ]
+}

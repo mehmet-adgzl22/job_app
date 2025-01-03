@@ -1,0 +1,14 @@
+.home-page {
+  padding: 10px;
+  
+  @media (min-width: 768px) {
+    padding: 20px 40px;
+  }
+}
+
+.cards-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(375px, 1fr));
+  margin-top: 50px;
+  gap: 50px;
+}
